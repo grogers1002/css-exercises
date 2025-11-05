@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+p, 
+.p2 {
+    background-color: #ffb3de;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#el2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#p2 {
+    font-size: 24px;
+}
+
+#el4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
