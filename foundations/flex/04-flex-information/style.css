@@ -4,6 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 56px;
+  text-align: center;
 }
 
 .non-title {
@@ -19,35 +20,18 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  padding: 32px;
+  margin-bottom: 32px;
+
 }
 
-.barberry {
+.container {
   display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 200px;
+  justify-content: center;
+  gap: 52px;
 }
 
-.chili {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 200px;
-}
-
-.pepper {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 200px;
-}
-
-.saffron {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 200px;
+.info {
+  max-width: 200px;
 }
 
 .text {
